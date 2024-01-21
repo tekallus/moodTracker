@@ -203,3 +203,4 @@ DiaryCard bileşenlerine prop'ları aktarma şeklinizi, orijinal kodlanmış bil
 
 Not: Bunu nasıl yaptığınıza bağlı olarak, components klasöründeki DiaryCard.jsx dosyasında propların alınma şeklini ayarlamanız gerekebilir. Ancak, hiçbir ayarlama gerektirmeyen süper kısa hale getirmenin bir yolu var
  -->
+# nisan-raporu
